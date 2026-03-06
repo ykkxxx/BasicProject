@@ -1,4 +1,4 @@
-package com.yupi.yupicturebackend.exception;
+package com.ykx.backend.exception;
 
 public class ThrowUtils {
     public static void throwIf(boolean condition,RuntimeException runtimeException){

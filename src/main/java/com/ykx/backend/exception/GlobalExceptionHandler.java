@@ -1,7 +1,7 @@
-package com.yupi.yupicturebackend.exception;
+package com.ykx.backend.exception;
 
-import com.yupi.yupicturebackend.common.BaseResponse;
-import com.yupi.yupicturebackend.common.ResultUtils;
+import com.ykx.backend.common.BaseResponse;
+import com.ykx.backend.common.ResultUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;

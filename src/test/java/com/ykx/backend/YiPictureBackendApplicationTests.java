@@ -1,4 +1,4 @@
-package com.yupi.yupicturebackend;
+package com.ykx.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

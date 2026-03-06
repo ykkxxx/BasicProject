@@ -1,6 +1,6 @@
-package com.yupi.yupicturebackend.common;
+package com.ykx.backend.common;
 
-import com.yupi.yupicturebackend.exception.ErrorCode;
+import com.ykx.backend.exception.ErrorCode;
 
 public class ResultUtils {
  /**

@@ -1,4 +1,4 @@
-package com.yupi.yupicturebackend.exception;
+package com.ykx.backend.exception;
 
 import lombok.Getter;
 
